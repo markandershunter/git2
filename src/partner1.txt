@@ -1,3 +1,7 @@
 Some edit made by partner 1:
 
+<<<<<<< HEAD
 Make a change here
+=======
+Hi welcome to chilis
+>>>>>>> 0dc0ae2672a355ef4748aac21f445d95a7ce8d5e
