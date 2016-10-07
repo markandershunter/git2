@@ -5,6 +5,7 @@
  * At the very least start each method with your particular structure.
  * This is an example to demonstrate what happens when you and a partner make changes
  * to the same file, it is not intended to evaluate your ability to write a data structure.
+ * This file is changed
  */
 public class MyList {
 
